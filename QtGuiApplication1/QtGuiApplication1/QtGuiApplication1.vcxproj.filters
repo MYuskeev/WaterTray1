@@ -38,13 +38,13 @@
     </QtMoc>
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="QtGuiApplication1.ui">
-      <Filter>Form Files</Filter>
-    </QtUic>
-  </ItemGroup>
-  <ItemGroup>
     <QtRcc Include="QtGuiApplication1.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="MainForm1.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
   </ItemGroup>
 </Project>

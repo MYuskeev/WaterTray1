@@ -87,7 +87,7 @@
     <QtMoc Include="QtGuiApplication1.h" />
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="QtGuiApplication1.ui" />
+    <QtUic Include="MainForm1.ui" />
   </ItemGroup>
   <ItemGroup>
     <QtRcc Include="QtGuiApplication1.qrc" />
